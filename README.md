@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elxas866
+- 👋 Hi, I’m Elias!
 - 🎓 I'm a professional software developer; educated at HTL Wr.Neustadt, Austria
 - 👀 I’m interested in programming and working on something that makes myself and others happy.
 - 🌱 I’m currently learning Java through Minecraft (Spigot) Plugins, C# with the .NET Framework, JavaScript through Discord.js, Python through small games and school and having fun with web design.
