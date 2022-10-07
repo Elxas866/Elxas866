@@ -3,6 +3,7 @@
 - 👀 I’m interested in programming and working on something that makes myself and others happy.
 - 🌱 The technologies I know:
   - Python (through school)
+  - C++ (through school
   - C# (through WPF and Windows-Forms development, game development with unity)
   - Java (through Minecraft plugins and Anroid - development)
   - HTML (through hobby-projects)
