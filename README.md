@@ -6,8 +6,8 @@
   - C++ (through school)
   - C# (through WPF and Windows-Forms development, game development with unity)
   - Java (through Minecraft plugins and Android - development)
-  - HTML (through hobby-projects)
-  - CSS (through hobby-projects)
+  - HTML (through hobby-projects + school)
+  - CSS (through hobby-projects + school)
   - JavaScript (through hobby-projects)
   - PHP (through hobby-projects)
   - SQL (through hobby-projects)
@@ -16,6 +16,6 @@
 - 🌐 Make sure to check out my website to get more information about me.
 
 <!---
-elitschgi/elitschgi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Elxas866/Elxas866 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
