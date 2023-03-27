@@ -8,7 +8,7 @@
   - Java (through Minecraft plugins and Android - development)
   - HTML (through hobby-projects + school)
   - CSS (through hobby-projects + school)
-  - JavaScript (through hobby-projects)
+  - JavaScript (through hobby-projects + school)
   - PHP (through hobby-projects)
   - SQL (through hobby-projects)
 - 💞️ I’m looking to collaborate on some little projects which I can make a little money with whilst going to school. Nothing laborious, you know...
