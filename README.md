@@ -14,7 +14,7 @@
   - Linux/Bash (through school)
   - Docker (through hobby-projects)
 - 💞️ I’m looking to collaborate on some little projects which I can make a little money with whilst going to school. Nothing laborious, you know...
-- 📫 How to reach me is via Discord: Elxas866#2552, or email: [eliaskelta1@gmail.com](mailto:eliaskelta1@gmail.com)
+- 📫 How to reach me is via Discord: elxas866, or email: [eliaskelta1@gmail.com](mailto:eliaskelta1@gmail.com)
 - 🌐 Make sure to check out my website to get more information about me.
 
 <!---
