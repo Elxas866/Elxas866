@@ -4,7 +4,7 @@
 - 🌱 The technologies I know:
   - Python (through school)
   - C++ (through school)
-  - C# (through WPF and Windows-Forms development, game development with unity)
+  - C# (through work, WPF and Windows-Forms development, game development with unity)
   - Java (through Minecraft plugins, Android - development and Web Development with Spring boot)
   - HTML (through hobby-projects + school)
   - CSS (through hobby-projects + school)
