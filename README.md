@@ -20,7 +20,7 @@
 
 # Skills overview 🦾
 ## Languages
-[![My known languages](https://skillicons.dev/icons?i=js,html,css,php,bash,cpp,cs,java,mysql,python)](https://skillicons.dev)
+[![My known languages](https://skillicons.dev/icons?i=html,css,js,php,bash,cpp,cs,java,mysql,python)](https://skillicons.dev)
 ## Other technologies
 [![My known technologies](https://skillicons.dev/icons?i=linux,git,nodejs,spring,netlify,docker)](https://skillicons.dev)
 ## Editors
