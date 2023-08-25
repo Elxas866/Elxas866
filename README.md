@@ -22,7 +22,7 @@
 ## Languages
 [![My known languages](https://skillicons.dev/icons?i=js,html,css,php,bash,cpp,cs,java,mysql,python)](https://skillicons.dev)
 ## Other technologies
-[![My known technologies](https://skillicons.dev/icons?i=linux,git,netlify,docker,nodejs,spring)](https://skillicons.dev)
+[![My known technologies](https://skillicons.dev/icons?i=linux,git,nodejs,spring,netlify,docker)](https://skillicons.dev)
 ## Editors
 [![My known editors](https://skillicons.dev/icons?i=vim,vscode,visualstudio,idea)](https://skillicons.dev)
 <!---
