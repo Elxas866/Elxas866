@@ -20,9 +20,9 @@
 
 # Skills overview 🦾
 ## Languages
-[![My known languages](https://skillicons.dev/icons?i=html,css,js,php,bash,cpp,cs,java,mysql,python)](https://skillicons.dev)
+[![My known languages](https://skillicons.dev/icons?i=html,css,js,ts,php,bash,cpp,cs,java,mysql,python)](https://skillicons.dev)
 ## Other technologies
-[![My known technologies](https://skillicons.dev/icons?i=linux,git,nodejs,spring,netlify,docker)](https://skillicons.dev)
+[![My known technologies](https://skillicons.dev/icons?i=linux,git,gitlab,github,nodejs,spring,netlify,docker)](https://skillicons.dev)
 ## Editors
 [![My known editors](https://skillicons.dev/icons?i=vim,vscode,visualstudio,idea)](https://skillicons.dev)
 <!---
