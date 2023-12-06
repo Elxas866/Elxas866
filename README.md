@@ -6,7 +6,7 @@
   - Python (through school)
   - C++ (through school)
   - C# (through work, WPF and Windows-Forms development, game development with unity)
-  - Java (through Minecraft plugins, Android - development and Web Development with Spring boot)
+  - Java (through Minecraft plugins, Android - development, Web Development with Spring boot and school)
   - HTML (through hobby-projects + school)
   - CSS (through hobby-projects + school)
   - JavaScript (through hobby-projects + school)
