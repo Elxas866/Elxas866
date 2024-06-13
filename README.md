@@ -1,3 +1,4 @@
+[![Elxas866's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elxas866&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 # About me
 - 👋 Hi, I’m Elias!
 - 🎓 I'm a professional software developer; educated at HTL Wr.Neustadt, Austria
