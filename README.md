@@ -4,6 +4,10 @@
 - 👋 Hi, I’m Elias!
 - 🎓 I'm a professional software developer; educated at HTL Wr.Neustadt, Austria
 - 👀 I’m interested in programming and working on something that makes myself and others happy.
+- CORE STACK 📚:
+  - Angular
+  - Spring Boot
+  - Postgres
 - 🌱 The technologies I know:
   - Python (through school)
   - C++ (through school)
