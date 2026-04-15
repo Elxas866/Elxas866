@@ -33,6 +33,10 @@
 [![My known technologies](https://skillicons.dev/icons?i=linux,git,gitlab,github,nodejs,spring,netlify,docker)](https://skillicons.dev)
 ## Editors
 [![My known editors](https://skillicons.dev/icons?i=vim,vscode,visualstudio,idea)](https://skillicons.dev)
+
+# My certifications 🥇
+  <img width="150" height="150" alt="introduction-to-cybersecurity" src="https://github.com/user-attachments/assets/8a94a5fe-be9e-4f3f-af1b-4ff470d556e8" />
+
 <!---
 Elxas866/Elxas866 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
