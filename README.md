@@ -37,6 +37,7 @@
 # My certifications 🥇
   <img width="150" height="150" alt="introduction-to-cybersecurity" src="https://github.com/user-attachments/assets/8a94a5fe-be9e-4f3f-af1b-4ff470d556e8" />
   <img width="150" height="150" alt="linux-essentials" src="https://github.com/user-attachments/assets/6aebefe6-df10-44d2-9235-c37e9c1ba512" />
+  <img width="150" height="150" alt="ai-literacy" src="https://github.com/user-attachments/assets/6d3f41c1-494d-4e1f-a0ca-b85c385efe51" />
 
 <!---
 Elxas866/Elxas866 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
